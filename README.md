@@ -3,6 +3,8 @@
 ## Тестирование API и интеграций
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)}" />
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+            
 ## Тестирование Web и Мобильных приложений
 
 ## Логи и мониторинги
