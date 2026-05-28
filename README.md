@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 ## Тестирование API и интеграций
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40" width="40" />
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" height="40" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" height="40" width="40" />           
 ## Тестирование Web и Мобильных приложений
 
 ## Логи и мониторинги
