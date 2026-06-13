@@ -75,6 +75,8 @@
 
 
 ## Образование
+[<img src="/middle.png" width="280px" hspace="10px" alt="Диплом»">](https://github.com/kaktuzs-qa/kaktuzs-qa/blob/8547483aeaf4c6e42ea0d316785a394eeb9d3f42/middle.png)
+[<img src="/recommendation.png" width="280px" hspace="10px" alt="Recommendation-1">](https://github.com/kaktuzs-qa/kaktuzs-qa/blob/8547483aeaf4c6e42ea0d316785a394eeb9d3f42/recommendation.png)
 
 <!--
 **kaktuzs-qa/kaktuzs-qa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
