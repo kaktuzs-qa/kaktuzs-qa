@@ -79,8 +79,8 @@
 [<img src="/2026.png" width="280px" hspace="10px" alt="hiiire»">](https://raw.githubusercontent.com/kaktuzs-qa/kaktuzs-qa/refs/heads/main/2026.png)
 [<img src="/26.png" width="280px" hspace="10px" alt="hiiire»">](https://raw.githubusercontent.com/kaktuzs-qa/kaktuzs-qa/refs/heads/main/26.png)
 ## Образование
-[<img src="/middle.png" width="280px" hspace="10px" alt="Диплом»">](https://github.com/kaktuzs-qa/kaktuzs-qa/blob/8547483aeaf4c6e42ea0d316785a394eeb9d3f42/middle.png)
-[<img src="/recommendation.png" width="280px" hspace="10px" alt="Recommendation-1">](https://github.com/kaktuzs-qa/kaktuzs-qa/blob/8547483aeaf4c6e42ea0d316785a394eeb9d3f42/recommendation.png)
+[<img src="/middle.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/kaktuzs-qa/kaktuzs-qa/refs/heads/main/middle.png)
+[<img src="/recommendation.png" width="280px" hspace="10px" alt="Recommendation-1">](https://raw.githubusercontent.com/kaktuzs-qa/kaktuzs-qa/refs/heads/main/recommendation.png)
 
 <!--
 **kaktuzs-qa/kaktuzs-qa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
