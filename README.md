@@ -76,8 +76,8 @@
 <br>
 
 ## Практика и стажировка
-[<img src="/2026.png" width="280px" hspace="10px" alt="hiiire»">](https://github.com/kaktuzs-qa/kaktuzs-qa/blob/9dedf9bc28177b05eebcc11463e9a83f691fc2b9/2026.png)
-[<img src="/26.png" width="280px" hspace="10px" alt="hiiire»">](https://github.com/kaktuzs-qa/kaktuzs-qa/blob/main/26.png)
+[<img src="/2026.png" width="280px" hspace="10px" alt="hiiire»">](https://raw.githubusercontent.com/kaktuzs-qa/kaktuzs-qa/refs/heads/main/2026.png)
+[<img src="/26.png" width="280px" hspace="10px" alt="hiiire»">](https://raw.githubusercontent.com/kaktuzs-qa/kaktuzs-qa/refs/heads/main/26.png)
 ## Образование
 [<img src="/middle.png" width="280px" hspace="10px" alt="Диплом»">](https://github.com/kaktuzs-qa/kaktuzs-qa/blob/8547483aeaf4c6e42ea0d316785a394eeb9d3f42/middle.png)
 [<img src="/recommendation.png" width="280px" hspace="10px" alt="Recommendation-1">](https://github.com/kaktuzs-qa/kaktuzs-qa/blob/8547483aeaf4c6e42ea0d316785a394eeb9d3f42/recommendation.png)
